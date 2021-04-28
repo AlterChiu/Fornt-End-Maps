@@ -1,4 +1,4 @@
-import * as map from "./map/plugins/leaflet/LeafletMap.js";
+import * as map from "../map/plugins/leaflet/LeafletMap.js";
 
 var mainMap = new map.CreateMap("mainMap");
 mainMap.setCenter(121, 25, 7);
