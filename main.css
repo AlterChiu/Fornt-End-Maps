@@ -1,0 +1,26 @@
+.mainMapBounday{
+    border: solid 2px black;
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 100vh;
+    top:0;
+    left:0;
+}
+
+.secondMapBounday{
+    border: solid 2px black;
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 50vh;
+}
+
+.mapContainer{
+    height:100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    z-index: 1;
+}
+
+.secondMapContainer{
+    height: 100%;
+}
